@@ -16,8 +16,8 @@
 
 | Role | Owner | Backup |
 |---|---|---|
-| cleaning + decision log | [Name] | [Name] |
-| weather API + join | [Name] | [Name] |
+| cleaning + decision log | [Angela] | [Name] |
+| weather API + join | [Noor] | [Name] |
 | analysis Q1-Q5 | [Name] | [Name] |
 | charts + presentation | [Name] | [Name] |
 
@@ -33,7 +33,7 @@
 
 ## How we work
 - **repo url:** [your team GitHub repo]
-- **notebook owner this week:** [Name]
+- **notebook owner this week:** [Angela Benedict]
 - **meeting time:** [actual recurring meeting time]
 - **channel:** Group chat; respond within a day.
 - **how we decide:** Look at the data first. If we still disagree, the owner of that part makes the decision and documents the reasoning.

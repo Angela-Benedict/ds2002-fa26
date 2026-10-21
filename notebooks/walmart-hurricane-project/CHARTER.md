@@ -1,10 +1,10 @@
 # Team charter: [TEAM NAME]
 
 ## Members
-- Noor Imat (GitHub: noorimat)
-- Angela Benedict (GitHub: Angela-Benedict)
-- Aubin (GitHub: Nicoroppatte)
-- Nico (GitHub: AubinB264)
+- Noor Imat (noorimat)
+- Angela Benedict (Angela-Benedict)
+- Aubin (AubinB264)
+- Nico (Nicoroppatte)
 
 ## Goals
 - **good result:** A complete notebook that runs top to bottom, answers all five questions clearly, and that everyone on the team can explain.

@@ -16,7 +16,7 @@
 
 | Role | Owner | Backup |
 |---|---|---|
-| cleaning + decision log | [Angela] | [Name] |
+| cleaning + decision log | [Angela] | [Aubin] |
 | weather API + join | [Noor] | [Name] |
 | analysis Q1-Q5 | [Name] | [Name] |
 | charts + presentation | [Name] | [Name] |

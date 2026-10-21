@@ -32,7 +32,7 @@
 | Q5 signal or artifact | [Name] | [Name] |
 
 ## How we work
-- **repo url:** [your team GitHub repo]
+- **repo url:** [https://github.com/Angela-Benedict/ds2002-fa26/tree/main/notebooks/walmart-hurricane-project]
 - **notebook owner this week:** [Angela Benedict]
 - **meeting time:** [actual recurring meeting time]
 - **channel:** Group chat; respond within a day.

@@ -18,7 +18,7 @@
 |---|---|---|
 | cleaning + decision log | [Angela] | [Aubin] |
 | weather API + join | [Noor] | [Name] |
-| analysis Q1-Q5 | [Nico] | [Name] |
+| analysis Q1-Q5 | [Nico] | [Noor] |
 | charts + presentation | [Name] | [Name] |
 
 ## Question owners

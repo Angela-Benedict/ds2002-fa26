@@ -16,18 +16,18 @@
 
 | Role | Owner | Backup |
 |---|---|---|
-| cleaning + decision log | [Angela] | [Aubin] |
-| weather API + join | [Noor] | [Name] |
-| analysis Q1-Q5 | [Nico] | [Noor] |
+| cleaning + decision log | Angela | Aubin |
+| weather API + join | Noor | [Name] |
+| analysis Q1-Q5 | Nico | Noor |
 | charts + presentation | [Name] | [Name] |
 
 ## Question owners
 
 | Question | Owner | Reviewer |
 |---|---|---|
-| Q1 demand surge | [Name] | [Name] |
+| Q1 demand surge | [Name] | Noor |
 | Q2 SKU consolidation | [Name] | [Name] |
-| Q3 weather correlation | [Name] | [Name] |
+| Q3 weather correlation | Noor | [Name] |
 | Q4 stores and geography | [Name] | [Name] |
 | Q5 signal or artifact | [Name] | [Name] |
 

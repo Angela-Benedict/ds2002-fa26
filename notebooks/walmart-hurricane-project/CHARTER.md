@@ -8,10 +8,13 @@
 
 ## Goals
 - **good result:** A complete notebook that runs top to bottom, answers all five questions clearly, and that everyone on the team can explain.
-- **what each person wants:** [What each of you wants from the project]
+- **what each person wants:**
+  - **Noor:** I want to get more comfortable working with real data and contribute to a project that comes together well as a team.
+  - **Angela:** 
+  - **Aubin:** 
+  - **Nico:** 
 - **time limits:** [Classes, work, schedules, etc.]
 - **what to avoid:** Avoid last-minute work, unclear responsibilities, and having one person do most of the project.
-
 ## Roles
 
 | Role | Owner | Backup |
@@ -33,7 +36,7 @@
 
 ## How we work
 - **repo url:** [https://github.com/Angela-Benedict/ds2002-fa26/tree/main/notebooks/walmart-hurricane-project]
-- **notebook owner this week:** [Angela Benedict]
+- **notebook owner this week:** Angela Benedict
 - **meeting time:** [actual recurring meeting time]
 - **channel:** Group chat; respond within a day.
 - **how we decide:** Look at the data first. If we still disagree, the owner of that part makes the decision and documents the reasoning.

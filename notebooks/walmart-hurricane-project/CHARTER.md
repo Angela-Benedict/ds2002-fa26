@@ -37,7 +37,7 @@
 ## How we work
 - **repo url:** [https://github.com/Angela-Benedict/ds2002-fa26/tree/main/notebooks/walmart-hurricane-project]
 - **notebook owner this week:** Angela Benedict
-- **meeting time:** [actual recurring meeting time]
+- **meeting time:** TBD
 - **channel:** Group chat; respond within a day.
 - **how we decide:** Look at the data first. If we still disagree, the owner of that part makes the decision and documents the reasoning.
 - **if someone goes quiet:** Check in after one day; if there is no response after two days, bring it to the whole team.

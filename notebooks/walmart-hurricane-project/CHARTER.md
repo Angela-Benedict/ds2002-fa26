@@ -13,7 +13,7 @@
   - **Angela:** 
   - **Aubin:** 
   - **Nico:** 
-- **time limits:** [Classes, work, schedules, etc.]
+- **time limits:** We all have other classes and commitments, so we want to stay on top of our parts and plan ahead.
 - **what to avoid:** Avoid last-minute work, unclear responsibilities, and having one person do most of the project.
 ## Roles
 

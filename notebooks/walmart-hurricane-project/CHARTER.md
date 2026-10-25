@@ -12,7 +12,7 @@
   - **Noor:** I want to get more comfortable working with real data and contribute to a project that comes together well as a team.
   - **Angela:** 
   - **Aubin:** 
-  - **Nico:** 
+  - **Nico:** I want to explore the real world applications of what we are learning.
 - **time limits:** We all have other classes and commitments, so we want to stay on top of our parts and plan ahead.
 - **what to avoid:** Avoid last-minute work, unclear responsibilities, and having one person do most of the project.
 ## Roles
@@ -22,16 +22,16 @@
 | cleaning + decision log | Angela | Aubin |
 | weather API + join | Noor | [Name] |
 | analysis Q1-Q5 | Nico | Noor |
-| charts + presentation | [Name] | [Name] |
+| charts + presentation | [Name] | Nico |
 
 ## Question owners
 
 | Question | Owner | Reviewer |
 |---|---|---|
 | Q1 demand surge | [Name] | Noor |
-| Q2 SKU consolidation | [Name] | [Name] |
+| Q2 SKU consolidation | [Name] | Nico |
 | Q3 weather correlation | Noor | [Name] |
-| Q4 stores and geography | [Name] | [Name] |
+| Q4 stores and geography | Nico | [Name] |
 | Q5 signal or artifact | [Name] | [Name] |
 
 ## How we work

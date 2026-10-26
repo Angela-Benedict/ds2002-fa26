@@ -10,7 +10,7 @@
 - **good result:** A complete notebook that runs top to bottom, answers all five questions clearly, and that everyone on the team can explain.
 - **what each person wants:**
   - **Noor:** I want to get more comfortable working with real data and contribute to a project that comes together well as a team.
-  - **Angela:** 
+  - **Angela:** I want to better understand the framework of coding questions and improve my troubleshooting. 
   - **Aubin:** I want to get more comfortable with combining complex data sets.
   - **Nico:** I want to explore the real world applications of what we are learning.
 - **time limits:** We all have other classes and commitments, so we want to stay on top of our parts and plan ahead.
@@ -28,11 +28,11 @@
 
 | Question | Owner | Reviewer |
 |---|---|---|
-| Q1 demand surge | [Name] | Noor |
+| Q1 demand surge | [Angela] | Noor |
 | Q2 SKU consolidation | Aubin | Nico |
 | Q3 weather correlation | Noor | Aubin |
 | Q4 stores and geography | Nico | Aubin |
-| Q5 signal or artifact | [Name] | [Name] |
+| Q5 signal or artifact | [Angela] | [Noor] |
 
 ## How we work
 - **repo url:** [https://github.com/Angela-Benedict/ds2002-fa26/tree/main/notebooks/walmart-hurricane-project]

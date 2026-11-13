@@ -27,7 +27,7 @@ reported +250% board game spike was real.
 
 ## Main findings
 - **Q1:** [category surge results]
-- **Q2:** [Pop-Tarts result after merging SKUs]
+- **Q2:** Fragmented SKUs were hiding just how large Strawberry Pop-Tart sales were during the storm. By consolidating them, we were able to see that the product was a best seller with 4736 unites sold in September, and therefore something that should be an inventory focus.
 - **Q3:** Sales peaked Sept 24–25, two days before the strongest wind on landfall day
   (Sept 26). The same-day wind correlation was moderate (r = 0.39), but with a 2-day
   lag it was strong (r = 0.82). Customers stocked up ahead of the storm.

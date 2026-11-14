@@ -31,7 +31,7 @@ reported +250% board game spike was real.
 - **Q3:** Sales peaked Sept 24–25, two days before the strongest wind on landfall day
   (Sept 26). The same-day wind correlation was moderate (r = 0.39), but with a 2-day
   lag it was strong (r = 0.82). Customers stocked up ahead of the storm.
-- **Q4:** [store-level results]
+- **Q4:** FL-330 had the highest store-level surge (2.82× baseline) despite being the farthest from landfall, making it a clear outlier. At the regional level, the South had the strongest average surge despite being far from landfall, even though the Panhandle had the nearest proximity. Overall, distance from landfall did not consistently predict the size of sales surges.
 - **Q5:** The +250% board game spike only happened on one day. Over the full week before
   the storm, entertainment grew +135%, which is less than Breakfast and Emergency Supplies.
   Inventory dropped too (about 128 to 36 units per store), so the demand was real.

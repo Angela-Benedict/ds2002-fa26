@@ -26,7 +26,7 @@ reported +250% board game spike was real.
    Correlation values may shift slightly between runs because of the live API.
 
 ## Main findings
-- **Q1:** [category surge results]
+- **Q1:** Comparing the 7 days prior to landfall (September 19-25) to a flat baseline week (September 8-15), Breakfast Foods saw the biggest spike in sales, selling 5.16 times their regular sales per day (416% increase), followed by Emergency Supplies at 2.86x (186% increase) which actually sold more overall units (7016 units).
 - **Q2:** Fragmented SKUs were hiding just how large Strawberry Pop-Tart sales were during the storm. By consolidating them, we were able to see that the product was a best seller with 4736 units sold in September, and therefore something that should be an inventory focus.
 - **Q3:** Sales peaked Sept 24–25, two days before the strongest wind on landfall day
   (Sept 26). The same-day wind correlation was moderate (r = 0.39), but with a 2-day
